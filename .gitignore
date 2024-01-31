@@ -1,0 +1,4 @@
+error.log
+# *.log to ignore all files having extension .log
+# dir/ It ignore the all the  direcotry having name dir
+# /dir/ It ignore only the outer direcotry
